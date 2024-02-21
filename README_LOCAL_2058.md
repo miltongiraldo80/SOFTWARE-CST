@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
@@ -90,7 +89,3 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 
 ## Copyright and license
 Code Copyright 2018 Materialize. Code released under the MIT license.
-=======
-# SOFTWARE-CST
-proyecto de empresa CST
->>>>>>> a63e981a316f5a9dac0eb00e453482884371695c
